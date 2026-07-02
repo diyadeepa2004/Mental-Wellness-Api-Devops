@@ -8,16 +8,16 @@ The project integrates Continuous Integration, containerization, infrastructure
 automation, and real-time monitoring using industry-standard DevOps tools.
 
 ## Key Features
-✔ Daily mood check-ins
-✔ RESTful Spring Boot API
-✔ Automated builds using Maven
-✔ Unit testing using JUnit
-✔ Jenkins CI/CD Pipeline
-✔ Docker deployment
-✔ Puppet configuration management
-✔ Prometheus monitoring
-✔ Grafana dashboards
-✔ Nagios infrastructure monitoring
+•	Daily mood check-ins
+•	RESTful Spring Boot API
+•	Automated builds using Maven
+•	Unit testing using JUnit
+•	Jenkins CI/CD Pipeline
+•	Docker deployment
+•	Puppet configuration management
+•	Prometheus monitoring
+•	Grafana dashboards
+•	Nagios infrastructure monitoring
 
 ## Tech Stack
 | Technology | Purpose |
