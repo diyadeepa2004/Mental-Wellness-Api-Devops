@@ -1,10 +1,10 @@
-# 🧠 Mental Wellness Check-In API
+# Mental Wellness Check-In API
 
 A Spring Boot REST API demonstrating an end-to-end DevOps workflow for a mental wellness application. This project focuses on automating software delivery using CI/CD, containerization, infrastructure management, and monitoring tools commonly used in industry.
 
 ---
 
-## 📌 Overview
+## Overview
 
 The application allows users to record daily mood check-ins through REST APIs while showcasing a complete DevOps pipeline.
 
@@ -21,7 +21,7 @@ The project demonstrates:
 
 ---
 
-## 🚀 Features
+## Features
 
 - REST API built using Spring Boot
 - Automated Maven build process
@@ -35,7 +35,7 @@ The project demonstrates:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -52,7 +52,7 @@ The project demonstrates:
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 Developer
 
@@ -94,7 +94,7 @@ Nagios Monitoring
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Mental-Wellness-Api-Devops
@@ -110,7 +110,7 @@ Mental-Wellness-Api-Devops
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 Clone the repository
 
@@ -138,7 +138,7 @@ http://localhost:8080
 
 ---
 
-## 📊 Monitoring
+## Monitoring
 
 The project demonstrates monitoring using:
 
@@ -157,7 +157,7 @@ Example metrics include:
 
 ---
 
-## 🌱 Future Improvements
+## Future Improvements
 
 - Database integration
 - User authentication
